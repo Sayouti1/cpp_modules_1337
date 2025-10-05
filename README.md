@@ -25,7 +25,7 @@ cpp_modules_1337/
 Each module is a git submodule. To clone with all submodules:
 
 ```bash
-git clone --recursive [repo-url]
+git clone --recursive https://github.com/Sayouti1/cpp_modules_1337.git
 ```
 
 Or initialize submodules after cloning:
